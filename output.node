@@ -1,0 +1,63 @@
+nohup: ignoring input
+
+> comments@0.0.0 start /home/bitnami/comments
+> node ./bin/www
+
+Connected
+[0mGET / [36m304 [0m161.791 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m79.104 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Photo: 'https://s-media-cache-ak0.pinimg.com/736x/e7/cf/f3/e7cff3be614f68782386bfbeecb304b1.jpg',
+    Comment: 'UNI-UNI-UNICORNS.',
+    Name: 'Agnes',
+    _id: 56e6e363f03238ca5c0b8eea },
+  { __v: 0,
+    Photo: 'http://vignette2.wikia.nocookie.net/despicableme/images/6/60/Despicable-Me-girl_2599883b.jpg/revision/latest?cb=20140221201415',
+    Comment: 'I don\'t love unicorns. ',
+    Name: 'Edith',
+    _id: 56e6e520f03238ca5c0b8eeb },
+  { __v: 0,
+    Photo: 'http://https://s-media-cache-ak0.pinimg.com/736x/60/86/c4/6086c4b6b22a02d61d6c75b703f2cbf7.jpgvignette2.wikia.nocookie.net/despicableme/images/6/60/Despicable-Me-girl_2599883b.jpg/revision/latest?cb=20140221201415',
+    Comment: 'IT\'S SO FLUFFY. ',
+    Name: 'Margo',
+    _id: 56e6e544f03238ca5c0b8eec },
+  { __v: 0,
+    Photo: '',
+    Comment: 'IT\'S SO FLUFFY. ',
+    Name: 'Margo',
+    _id: 56e6e565f03238ca5c0b8eed },
+  { __v: 0,
+    Photo: 'https://s-media-cache-ak0.pinimg.com/736x/60/86/c4/6086c4b6b22a02d61d6c75b703f2cbf7.jpg',
+    Comment: 'IT\'S SO FLUFFY. ',
+    Name: 'Margo',
+    _id: 56e6e569f03238ca5c0b8eee } ]
+[0mGET /comment [36m304 [0m407.816 ms - -[0m
+[0mGET /style=%22width:100px;height:auto;%22 [33m404 [0m8545.274 ms - 1594[0m
+In the GET route?
+[ { __v: 0,
+    Photo: 'https://s-media-cache-ak0.pinimg.com/736x/e7/cf/f3/e7cff3be614f68782386bfbeecb304b1.jpg',
+    Comment: 'UNI-UNI-UNICORNS.',
+    Name: 'Agnes',
+    _id: 56e6e363f03238ca5c0b8eea },
+  { __v: 0,
+    Photo: 'http://vignette2.wikia.nocookie.net/despicableme/images/6/60/Despicable-Me-girl_2599883b.jpg/revision/latest?cb=20140221201415',
+    Comment: 'I don\'t love unicorns. ',
+    Name: 'Edith',
+    _id: 56e6e520f03238ca5c0b8eeb },
+  { __v: 0,
+    Photo: 'http://https://s-media-cache-ak0.pinimg.com/736x/60/86/c4/6086c4b6b22a02d61d6c75b703f2cbf7.jpgvignette2.wikia.nocookie.net/despicableme/images/6/60/Despicable-Me-girl_2599883b.jpg/revision/latest?cb=20140221201415',
+    Comment: 'IT\'S SO FLUFFY. ',
+    Name: 'Margo',
+    _id: 56e6e544f03238ca5c0b8eec },
+  { __v: 0,
+    Photo: '',
+    Comment: 'IT\'S SO FLUFFY. ',
+    Name: 'Margo',
+    _id: 56e6e565f03238ca5c0b8eed },
+  { __v: 0,
+    Photo: 'https://s-media-cache-ak0.pinimg.com/736x/60/86/c4/6086c4b6b22a02d61d6c75b703f2cbf7.jpg',
+    Comment: 'IT\'S SO FLUFFY. ',
+    Name: 'Margo',
+    _id: 56e6e569f03238ca5c0b8eee } ]
+[0mGET /comment [36m304 [0m126.712 ms - -[0m
